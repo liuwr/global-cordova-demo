@@ -1,5 +1,4 @@
-# global-cordova-demo
-global-cordova-demo
+
 # cordova-XJMapSDK-demo
 
 cordova-XJMapSDK-demo 是一套面向 cordova 开发者使用XJMapSDK的demo工程，里面包含一个自定义插件cordova-plugin-XJMapSDK（目前插件暂未上传cordova），
